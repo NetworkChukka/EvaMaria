@@ -1,7 +1,7 @@
 class script(object):
-    START_TXT = """Hi {}, I'm Sinhala Subtitle bot
+    START_TXT = """Hi {}, I'm AD Movie Finder
 
-ඔබට අවශ්‍ය ඕනෑම චිත්‍රපටයක සිංහල උපසිරැසි මෙම Bot තුළින් ලබාගත හැකිය.
+ඔබට අවශ්‍ය ඕනෑම චිත්‍රපටයක පිටපත මෙම Bot තුළින් ලබාගත හැකිය.
 
 පහළින් තිබෙන ''සොයන්න'' Button එක Click කර ඔබට අවශ්‍ය චිත්‍රපටයෙහි නම Type කරන්න.
 
@@ -9,18 +9,18 @@ class script(object):
 
 එමෙන්ම මෙම Bot භාවිතා කිරීම සඳහා ඔබ අපගේ පහත චැනලයට Join වී සිටිය යුතුවේ. 
 
-Powered By : @MovieClubFamily"""
+Powered By : @anonymousbotz"""
     HELP_TXT = """Hey {}
 Here Is The Help For My Commands."""
     ABOUT_TXT = """✯ My Name: {}
-✯ Creator: <a href=https://t.me/IamBlackEmpire>IamBlackEmpire</a>
+✯ Creator: <a href=https://t.me/networkchukka>networkchukka</a>
 ✯ Library: Pyrogram
 ✯ Language: Python 3"""
     SOURCE_TXT = """<b>Note:</b>
 - MCF Filter Pro is a Closed source project. 
 
 <b>Devs:</b>
-- <a href=https://t.me/IamBlackEmpire>IamBlackEmpire</a>"""
+- <a href=https://t.me/networkchukka>networkchukka</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
@@ -45,7 +45,7 @@ Here Is The Help For My Commands."""
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/Sinhala_Sub_Bot)</code>
+<code>[Button Text](buttonurl:https://t.me/admoviefind_bot)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
