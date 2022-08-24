@@ -26,7 +26,7 @@ Here Is The Help For My Commands."""
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. Sinhala Sub Bot should have admin privillage.
+1. AD Movie Finder should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
@@ -37,11 +37,11 @@ Here Is The Help For My Commands."""
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- Sinhala Sub Bot Supports both url and alert inline buttons.
+- AD Movie Finder Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. Sinhala Sub Bot supports buttons with any telegram media type.
+2. AD Movie Finder supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
@@ -49,7 +49,7 @@ Here Is The Help For My Commands."""
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
-    AUTOFILTER_TXT = """Help: <b>Sinhala Sub Bot</b>
+    AUTOFILTER_TXT = """Help: <b>AD Movie Finder</b>
 
 <b>NOTE:</b>
 1. Make me the admin of your channel if it's private.
